@@ -17,7 +17,7 @@ My contributions includes the creation of several key files, each serving a dist
 
 **2.	README.md:**
 
-•	Purpose: This README file serves as a comprehensive document detailing my individual contributions to the project. It includes information on project goals, file inventory, file interrelations, and project status.
+•	This README file serves as a comprehensive document detailing my individual contributions to the project. It includes information on project goals, file inventory, file interrelations, and project status.
 ## File Interrelations
 1. **Position_Detection_Model.ipynb**
    
@@ -39,8 +39,7 @@ My contributions includes the creation of several key files, each serving a dist
 •	Provides a link to the GitHub repository for access to the complete project documentation.
 ## Project Status
 As of the current trimester, the model development and data interpretation tasks have been successfully completed. 
-The Jupyter Notebook, namely Position_Detection_Model.ipynb capture the essence of these contributions.
-To be continued in the next trimester:
+The Jupyter Notebook, namely Position_Detection_Model.ipynb capture the essence of these contributions. To be continued in the next trimester:
 
 •	Web Interface Development: The creation of a user-friendly web interface for medical staff to visualize patient information.
 
