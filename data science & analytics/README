@@ -1,1 +1,64 @@
+README Document
+Project Goals:
+
+The main objective of this project is to monitor and analyze hydration data collected from a ThingSpeak channel. The data is fetched at regular intervals, stored in a MongoDB database, and then analyzed for insights into hydration levels over time. Key goals include real-time data collection, persistent storage, and data analysis to gain meaningful insights into hydration patterns.
+File Inventory:
+•	main.py:
+
+	Purpose: The main script that orchestrates the data collection, storage, and analysis processes.
+	Contains the main() function, which is the entry point of the application.
+
+•	requirements.txt:
+
+	Purpose: Lists the Python packages and versions required for running the project.
+	Includes dependencies like pandas, matplotlib, seaborn, requests, and pymongo.
+
+File Interrelations:
+
+main.py interacts with the following components:
+•	ThingSpeak API: Used to fetch real-time sensor data.
+•	MongoDB Database: Utilized for persistent storage of hydration data.
+•	Pandas and Matplotlib/Seaborn: Used for data analysis and visualization.
+
+Project Status:
+
+The current implementation covers the following aspects:
+
+•	Data fetching from ThingSpeak and remapping to descriptive column names.
+•	Storing data in MongoDB for persistent storage.
+•	Analyzing hydration data over time, including plotting and correlation analysis.
+•	Displaying summary statistics and histograms for various measurements.
+
+To be continued in the next trimester:
+
+•	Further refinement of data analysis and visualization techniques.
+•	Implementing additional features for more comprehensive insights.
+1.	Real-time Visualization:
+
+	Add a real-time dashboard to visualize hydration data dynamically as it is collected.
+	Utilize libraries like Plotly or Dash for interactive and live plotting.
+
+
+
+2.  Alerting Mechanism:
+
+	Implement an alerting mechanism based on certain hydration thresholds.
+	Send notifications or alerts when hydration levels fall below or exceed a predefined range.
+
+3.  Machine Learning Models:
+
+	Train machine learning models to predict hydration levels based on historical data.
+	Integrate the trained model to provide predictive insights into future hydration levels.
+
+4.	Data Filtering and Querying:
+
+	Allow users to filter data based on specific criteria such as date ranges, activity levels, or other relevant parameters.
+	Implement querying functionality to extract specific information from the MongoDB collection.
+
+5.  User Authentication and Authorization:
+
+	Introduce user authentication and authorization mechanisms to restrict access to sensitive data.
+	Create user roles with different levels of access permissions.
+
+•	Optimizing code for better performance and scalability.
 
