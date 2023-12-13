@@ -1,4 +1,4 @@
-# Project README - Individual Contributions
+# Postion Detection for Pressure Ulcers (bedsore) Prevention
 ## Project Goals
 The primary objective of my contributions to the Wearable Sensor project was to leverage data analysis tools and techniques for the development of a non-invasive system using wearable sensors and deep learning techniques. Specifically, I focused on the following goals:
 1.	**Model Development:** Train a TensorFlow neural network model capable of predicting patient positions based on real-time sensor data from inertial sensors (accelerometer and magnetometer).
