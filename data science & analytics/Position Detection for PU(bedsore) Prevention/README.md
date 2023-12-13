@@ -10,9 +10,12 @@ My contributions encompass the creation of several key files, each serving a dis
 **1.	Position_Detection_Model.ipynb**
 
 •	Purpose: This Jupyter Notebook contains the code for the development and training of the TensorFlow neural network model. It includes sections for model architecture, epoch information, training history visualization, test set evaluation, and data interpretation.
+
 •	Confusion_Matrix_Visualization
 •	Purpose: This Jupyter Notebook focuses specifically on the creation and interpretation of the confusion matrix, providing detailed insights into the model's performance on the test set.
+
 **2.	README.md:**
+
 •	Purpose: This README file serves as a comprehensive document detailing my individual contributions to the project. It includes information on project goals, file inventory, file interrelations, and project status.
 ## File Interrelations
 1. **Position_Detection_Model.ipynb**
