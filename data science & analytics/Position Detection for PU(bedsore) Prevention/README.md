@@ -5,7 +5,7 @@ The primary objective of my contributions to the Wearable Sensor project was to 
 2.	**Data Interpretation:** Provide insightful visualizations and interpretations of the model's performance, including training metrics, validation metrics, and a confusion matrix.
 3.	**Documentation:** Contribute to the creation of a comprehensive README to provide transparency regarding my individual contributions, the model's architecture, and the project's progress.
 ## File Inventory
-My contributions encompass the creation of several key files, each serving a distinct purpose:
+My contributions includes the creation of several key files, each serving a distinct purpose:
 
 **1.	Position_Detection_Model.ipynb**
 
