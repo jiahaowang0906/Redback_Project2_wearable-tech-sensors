@@ -12,6 +12,7 @@ My contributions encompass the creation of several key files, each serving a dis
 •	Purpose: This Jupyter Notebook contains the code for the development and training of the TensorFlow neural network model. It includes sections for model architecture, epoch information, training history visualization, test set evaluation, and data interpretation.
 
 •	Confusion_Matrix_Visualization
+
 •	Purpose: This Jupyter Notebook focuses specifically on the creation and interpretation of the confusion matrix, providing detailed insights into the model's performance on the test set.
 
 **2.	README.md:**
@@ -22,7 +23,9 @@ My contributions encompass the creation of several key files, each serving a dis
    
 •	Interacts with the dataset to train the TensorFlow neural network model.
 •	Produces visualizations and metrics that are referenced and interpreted in the README.md file.
+
 •	Confusion_Matrix_Visualization
+
 •	Utilizes the test set data to create a confusion matrix for detailed performance analysis.
 •	The insights from this file contribute to the overall interpretation of the model's strengths and areas for improvement in the README.md file.
 
