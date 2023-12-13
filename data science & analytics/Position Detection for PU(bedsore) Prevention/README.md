@@ -22,17 +22,20 @@ My contributions encompass the creation of several key files, each serving a dis
 1. **Position_Detection_Model.ipynb**
    
 •	Interacts with the dataset to train the TensorFlow neural network model.
+
 •	Produces visualizations and metrics that are referenced and interpreted in the README.md file.
 
 •	Confusion_Matrix_Visualization
 
 •	Utilizes the test set data to create a confusion matrix for detailed performance analysis.
+
 •	The insights from this file contribute to the overall interpretation of the model's strengths and areas for improvement in the README.md file.
 
 
 2. **README.md**
    
 •	References information from both Jupyter Notebooks to provide a cohesive overview of my individual contributions.
+
 •	Provides a link to the GitHub repository for access to the complete project documentation.
 ## Project Status
 As of the current trimester, the model development and data interpretation tasks have been successfully completed. 
